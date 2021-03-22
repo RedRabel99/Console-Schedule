@@ -12,6 +12,8 @@ Script (.py)
   * datetime, time, ctypes, sys, colorama, calendar
 Windows (.exe)
 * none
+## Download
+[You can download it from here](https://github.com/RedRabel99/Console-Schedule/releases/tag/v0.5)
 ## Setup
 #### Python Script
 Go to to the directory where the script is present and type:
@@ -118,3 +120,5 @@ If 'all' is given as an argument(```delete all```) it deletes whole database:
 <schedule>delete all
 all subjects had been successfully deleted
 ```
+### Full documentation
+[You can check full documentation here](..Console-Schedule/DOC/documentation.md)
