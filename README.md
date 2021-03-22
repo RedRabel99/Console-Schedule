@@ -121,4 +121,4 @@ If 'all' is given as an argument(```delete all```) it deletes whole database:
 all subjects had been successfully deleted
 ```
 ### Full documentation
-[You can check full documentation here](..Console-Schedule/DOC/documentation.md)
+[You can check full documentation here](..DOC/documentation.md)
