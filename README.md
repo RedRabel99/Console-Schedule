@@ -109,11 +109,11 @@ Prints all schedule for every day(if no arguments are given), or schedule for gi
 └────┴────────────────────────┴───────────────┘
 ```
 ### delete 
-Deletes subject/activity of given id(```delete id```):
+Deletes subject/activity of given id(```delete <id>```):
 ```console<schedule>delete 3
 subject with id: 3 has benn successfully deleted
 ```
-If 'all' is given as an argument(```delete all``) it deletes whole database:
+If 'all' is given as an argument(```delete all```) it deletes whole database:
 ```console
 <schedule>delete all
 all subjects had been successfully deleted
